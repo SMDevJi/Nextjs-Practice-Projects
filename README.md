@@ -9,7 +9,12 @@ The goal of this repo is to sharpen full-stack development skills through hands-
 ## 📂 Projects Included  
 Each project is stored in its own folder.  
 
-- 🚀 **Project 1:** [Accountly]  
+- 🚀 **Project 1:** [Accountly] -
+ NextAuth implementation with Google Login and MongoDB
+ 
+- 🚀 **Project 2:** [Redux Prisma Todo]  -
+Implementation of Postgresql with Prisma and Redux Toolkit
+
 *(more projects will be added as I practice new concepts)*  
 
 ---
